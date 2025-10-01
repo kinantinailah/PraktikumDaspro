@@ -2,4 +2,4 @@ helo Github, ini repository pertama saya.
 
 fitur 1 
 
-fitur 2
+fitur 3
